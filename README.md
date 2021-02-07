@@ -7,15 +7,15 @@
 
 - 🔭 I’m currently working on [mBasket](https://github.com/preyan/mBasket)
 
-- 🌱 I’m currently learning **React, Bulma**
+- 🌱 I’m currently learning [**React, Bulma**]
 
 - 👯 I’m looking to collaborate on [mBasket](https://github.com/preyan/mBasket)
 
-- 👨‍💻 All of my projects are available at [https://github.com/preyan/](https://github.com/preyan/)
+- 💻 All of my projects are available at [Github](https://github.com/preyan/)
 
-- 💬 Ask me about **Angular, Nodejs**
+- 💬 Ask me about **Angular, Nodejs or Life ?**
 
-- 📫 How to reach me **preyan1997@gmail.com**
+- 📫 How to reach me ? Send me a letter  || Email : **preyan1997@gmail.com**
 
 <!-- - 📄 Know about my experiences [https://github.com/preyan](https://github.com/preyan) -->
 
@@ -35,5 +35,5 @@
 <br><br><br>
 
 <!-- <p style="clear:both">&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=preyan&show_icons=true&locale=en" alt="preyan" /></p> -->
-
+<h3 align="left">Streak:</h3>
 <p style="clear:both"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=preyan&" alt="preyan" /></p>
