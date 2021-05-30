@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preyan&label=Profile%20views&color=0e75b6&style=flat" alt="preyan" /> </p>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=preyan" alt="preyan" /></a> </p> -->
-
 - 🔭 I’m currently working on [mBasket](https://github.com/preyan/mBasket)
 
 - 🌱 I’m currently learning [**React, Bulma**]
@@ -16,8 +14,6 @@
 - 💬 Ask me about **Angular, Nodejs or Life ?**
 
 - 📫 How to reach me ? Send me a letter  || Email : **preyan1997@gmail.com**
-
-<!-- - 📄 Know about my experiences [https://github.com/preyan](https://github.com/preyan) -->
 
 - ⚡ Fun fact **I spend 50% of my time debugging and the other 50% on Stackoverflow**
 
