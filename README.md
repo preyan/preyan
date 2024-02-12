@@ -3,8 +3,6 @@
 <br clear="both">
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=preyan&label=Profile%20views&color=0e75b6&style=flat" alt="preyan" /> </p> 
 
-
-
 ###
 
 <div align="center">
@@ -14,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://avatars.githubusercontent.com/u/30199639?s=400&u=017731c12431378ac048b3c02720bde353227d84&v=4"  />
+<!--- <img align="right" height="150" src="https://avatars.githubusercontent.com/u/30199639?s=400&u=017731c12431378ac048b3c02720bde353227d84&v=4"  /> -->
 
 ###
 
