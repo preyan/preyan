@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preyan Bhowmick</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <br clear="both">
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=preyan&label=Profile%20views&color=0e75b6&style=flat" alt="preyan" /> </p> 
+<!--- <p align="center"> <img src="https://komarev.com/ghpvc/?username=preyan&label=Profile%20views&color=0e75b6&style=flat" alt="preyan" /> </p> -->
 
 ###
 
