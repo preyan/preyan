@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preyan Bhowmick</h1>
-<h3 align="center">Javascript Full Stack Dev</h3>
+<h3 align="center">Angular Dev in transition to Full Stack </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preyan&label=Profile%20views&color=0e75b6&style=flat" alt="preyan" /> </p>
 
