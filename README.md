@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preyan&label=Profile%20views&color=0e75b6&style=flat" alt="preyan" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Next.js & Tailwind CSS**
 
-- 💬 Ask me about **angular,tyescript,javascript or life?**
-
-- 📫 How to reach me **preyan1997@gmail.com**
+- 💬 Ask me about **angular, typescript, javascript or life?**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/preyan/](https://www.linkedin.com/in/preyan/)
 
