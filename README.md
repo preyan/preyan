@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **NestJS**
 
-- 🧑‍💼 I’m currently working on [memory-lane](https://github.com/preyan/memory-lane?tab=readme-ov-file)
+- 🧑‍💼 I’m currently working on **Nothing | Nada**
 
 - 💬 Ask me about **angular, typescript, javascript or life?**
 
