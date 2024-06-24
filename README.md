@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preyan&label=Profile%20views&color=0e75b6&style=flat" alt="preyan" /> </p>
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **NestJS and NextJS**
 
-- 🧑‍💼 I’m currently working on **Nothing | Nada**
+- 🧑‍💼 I’m currently working on **[next-social](https://github.com/preyan/next-social)**
 
 - 💬 Ask me about **angular, typescript, javascript or life?**
 
