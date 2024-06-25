@@ -7,7 +7,7 @@
 
 - 🔥 Have you tried ? **[next-social](https://github.com/preyan/next-social)** | **[ng-trello](https://github.com/preyan/ng-trello)** | **[rand-name-gen](https://github.com/preyan/rand-name-gen)**
 
-- 💬 Ask me about **Angular, Typescript, jJavascript or Life ?**
+- 💬 Ask me about **Angular, Typescript, JavaScript or Life?**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/preyan/](https://www.linkedin.com/in/preyan/)
 
