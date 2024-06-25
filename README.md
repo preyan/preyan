@@ -1,17 +1,17 @@
 <h1 align="center"> Hola👋 I'm Preyan Bhowmick</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer (TypeScript)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preyan&label=Profile%20views&color=0e75b6&style=flat" alt="preyan" /> </p>
 
 - 🌱 I’m currently learning **NestJS and NextJS**
 
-- 🧑‍💼 I’m currently working on **[next-social](https://github.com/preyan/next-social)**
+- 🔥 Have you tried ? **[next-social](https://github.com/preyan/next-social)** | **[ng-trello](https://github.com/preyan/ng-trello)** | **[rand-name-gen](https://github.com/preyan/rand-name-gen)**
 
-- 💬 Ask me about **angular, typescript, javascript or life?**
+- 💬 Ask me about **Angular, Typescript, jJavascript or Life ?**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/preyan/](https://www.linkedin.com/in/preyan/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/preyan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="preyan" height="30" width="40" /></a>
 
