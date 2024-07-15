@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=preyan&label=Profile%20views&color=0e75b6&style=flat" alt="preyan" /> </p>
 
-- 🌱 I’m currently learning **NestJS and NextJS**
-
-- 🔥 Have you tried ? **[next-social](https://github.com/preyan/next-social)** | **[ng-trello](https://github.com/preyan/ng-trello)** | **[rand-name-gen](https://github.com/preyan/rand-name-gen)**
-
-- 💬 Ask me about **Angular, Typescript, JavaScript or Life?**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/preyan/](https://www.linkedin.com/in/preyan/)
 
 <h3 align="left">Connect with me :</h3>
